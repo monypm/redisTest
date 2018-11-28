@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/monypm/redisTest.git"
+    "url": "git+https://github.com/monypm/redisTest.git"
   },
   "keywords": [
     "npm"
